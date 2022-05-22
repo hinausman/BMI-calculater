@@ -4,7 +4,7 @@ function bmi() {
     // this is the formula of bmi 
     let bmi = w / (h / 100 * h / 100);
     let total = bmi.toFixed(0);
-    ////document.getElementById("result").innerHTML = "Your BMI is" + total
+    document.getElementById("result").innerHTML = "Your BMI is" + total
 }
 
 console.log('hellow world')
