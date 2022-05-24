@@ -8,3 +8,4 @@ function bmi() {
 }
 
 console.log('hellow world')
+//hi Hina//
